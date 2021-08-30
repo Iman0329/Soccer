@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soccer game</title>
+
+    <link rel="stylesheet" href="./css/soccer.css">
+    <script src="./js/soccer.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="nav">
+            <div class="title">
+                <div>Soccer PK Game</div>
+            </div>
+            <div class="navitem">
+                <div id="restart">Restart</div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="game" id="game">
+                <div class="upper" id="upper">
+                    <div class="ball" id="ball">
+                        <img src="./pic/ball.png" alt="">
+                    </div>
+                </div>
+                <div id="result"></div>
+                <div id="turn">
+                    <div class="arrow" id="arrow"></div>
+                </div>
+                <div class="goalkeeper">
+                    <img src="./pic/goalkeeper.png" alt="" id="keeper">
+                </div>
+            </div>
+            <div class="skill">
+                <div class="skillitem" id="player">Player</div>
+                <div class="who">
+                    <div class="name" id="1">Cristiano
+                        <img src="./pic/Cristiano.jpeg" alt="">
+                        <p>Skill : 98</p>
+                    </div> 
+                    <div class="name" id="2">Mbappe
+                        <img src="./pic/mbappe.png" alt="">
+                        <p>Skill : 95</p>
+                    </div> 
+                    <div class="name" id="3">Neymar
+                        <img src="./pic/neymar.png" alt="">
+                        <p>Skill : 90</p>
+                    </div> 
+                </div>
+                <div class="skillitem" id="skill">Shot Type</div>
+                <div class="how">
+                    <div class="type" id="1">Power<br>
+                        <img src="./pic/powerball.png" alt="">
+                        <p>Easy</p>
+                    </div> 
+                    <div class="type" id="2">Inside<br>
+                        <img src="./pic/insideball.png" alt="">
+                        <p>Normal</p>
+                    </div> 
+                    <div class="type" id="3">Knuckle
+                        <img src="./pic/knuckleball.png" alt="">
+                        <p>Hard</p>
+                    </div> 
+                </div>
+                <div class="directinside" id="middle"> Press to rotate direction</div>
+                <div class="skillitem" id="strength">Strength</div>
+                <div class="strong">
+                    <div class="howstrong">
+                        <div id="strongpower"></div>
+                    </div>
+                    <div class="stop" id="startstop">STOP</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
