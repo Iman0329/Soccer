@@ -1,0 +1,85 @@
+{
+  "listData": [
+    {
+      "building": "A \u68df",
+      "buildingSrc": "~/assets/img/frontuser/hoverbuilding.png",
+      "children": [
+        { "id": 9, "number": 2, "company": ["\u6469\u65af\u6f22\u5821"] },
+        { "id": 8, "number": 1, "company": ["KFC", "McDonoald"] }
+      ]
+    },
+    {
+      "building": "B \u68df",
+      "buildingSrc": "~/assets/img/frontuser/hoverbuilding.png",
+      "children": [
+        { "id": 17, "number": 8, "company": [] },
+        {
+          "id": 16,
+          "number": 7,
+          "company": ["\u5927\u516b\u5403\u5230\u5012"]
+        },
+        { "id": 15, "number": 6, "company": [] },
+        { "id": 14, "number": 5, "company": [] },
+        { "id": 13, "number": 4, "company": [] },
+        { "id": 12, "number": 3, "company": [] },
+        { "id": 11, "number": 2, "company": [] },
+        { "id": 10, "number": 1, "company": [] }
+      ]
+    },
+    {
+      "building": "C \u68df",
+      "buildingSrc": "~/assets/img/frontuser/hoverbuilding.png",
+      "children": [
+        { "id": 27, "number": 10, "company": [] },
+        { "id": 26, "number": 9, "company": [] },
+        { "id": 25, "number": 8, "company": [] },
+        { "id": 24, "number": 7, "company": [] },
+        { "id": 23, "number": 6, "company": [] },
+        { "id": 22, "number": 5, "company": [] },
+        { "id": 21, "number": 4, "company": [] },
+        { "id": 20, "number": 3, "company": [] },
+        { "id": 19, "number": 2, "company": [] },
+        { "id": 18, "number": 1, "company": [] }
+      ]
+    },
+    {
+      "building": "D \u68df",
+      "buildingSrc": "~/assets/img/frontuser/hoverbuilding.png",
+      "children": [
+        { "id": 39, "number": 12, "company": [] },
+        { "id": 38, "number": 11, "company": [] },
+        { "id": 37, "number": 10, "company": [] },
+        { "id": 36, "number": 9, "company": [] },
+        { "id": 35, "number": 8, "company": [] },
+        { "id": 34, "number": 7, "company": [] },
+        { "id": 33, "number": 6, "company": [] },
+        { "id": 32, "number": 5, "company": [] },
+        { "id": 31, "number": 4, "company": [] },
+        { "id": 30, "number": 3, "company": [] },
+        { "id": 29, "number": 2, "company": [] },
+        { "id": 28, "number": 1, "company": [] }
+      ]
+    },
+    {
+      "building": "E \u68df",
+      "buildingSrc": "~/assets/img/frontuser/hoverbuilding.png",
+      "children": [
+        { "id": 54, "number": 15, "company": [] },
+        { "id": 53, "number": 14, "company": [] },
+        { "id": 52, "number": 13, "company": [] },
+        { "id": 51, "number": 12, "company": [] },
+        { "id": 50, "number": 11, "company": [] },
+        { "id": 49, "number": 10, "company": [] },
+        { "id": 48, "number": 9, "company": [] },
+        { "id": 47, "number": 8, "company": [] },
+        { "id": 46, "number": 7, "company": [] },
+        { "id": 45, "number": 6, "company": [] },
+        { "id": 44, "number": 5, "company": [] },
+        { "id": 43, "number": 4, "company": [] },
+        { "id": 42, "number": 3, "company": [] },
+        { "id": 41, "number": 2, "company": [] },
+        { "id": 40, "number": 1, "company": [] }
+      ]
+    }
+  ]
+}
